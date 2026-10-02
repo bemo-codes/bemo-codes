@@ -8,7 +8,13 @@ Building practical projects, experimenting with AI, and learning by shipping.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-bemo--codes-181717?style=for-the-badge&logo=github)](https://github.com/bemo-codes)
+<a href="https://github.com/bemo-codes">
+  <img src="https://img.shields.io/badge/GitHub-bemo--codes-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -26,7 +32,8 @@ problem-solving and software development skills.
 - 🧠 Building projects using **FNN & CNN architectures**
 - 🐍 Working primarily with **Python**
 - ⚙️ Building **automation and system-monitoring tools**
-- 🚀 Currently exploring **Generative AI, LLMs & Agentic AI**
+- 🚀 Exploring **Generative AI, LLMs & Agentic AI**
+- 💻 Improving my **Data Structures & Algorithms** skills
 
 ---
 
@@ -35,27 +42,49 @@ problem-solving and software development skills.
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-`NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `Keras`
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+</p>
+
+### 🧠 Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/FNN-Neural%20Networks-6A5ACD?style=flat-square">
+  <img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Networks-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
+</p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### ⚙️ Tools & Development
+### ⚙️ Automation & Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/System%20Monitoring-333333?style=flat-square">
+  <img src="https://img.shields.io/badge/File%20Automation-333333?style=flat-square">
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
@@ -64,49 +93,69 @@ problem-solving and software development skills.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📁 Duplicate File Removal
 
-Python-based automation tool that detects duplicate files using file hashing
-and helps automate file cleanup.
+Python-based automation tool that detects duplicate files using file hashing and helps automate file cleanup.
 
 **Tech:** Python • Hashing • Automation
 
+<br>
+
+<a href="https://github.com/bemo-codes/DuplicateFileRemoval">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🖥️ Platform Surveillance System
 
-System monitoring project for tracking CPU, RAM, disk, network and running
-processes.
+System monitoring project for tracking CPU, RAM, disk, network and running processes.
 
 **Tech:** Python • psutil • System Monitoring
+
+<br>
+
+<a href="https://github.com/bemo-codes/Platform-Surveillance-System">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Machine Learning Projects
 
-Machine Learning projects involving data preprocessing, feature engineering,
-classification and model evaluation.
+Projects involving data preprocessing, feature engineering, classification and model evaluation.
 
-**Tech:** Python • Pandas • Scikit-learn
+**Tech:** Python • Pandas • NumPy • Scikit-learn
+
+<br>
+
+<a href="https://github.com/bemo-codes">
+  <img src="https://img.shields.io/badge/Explore%20ML%20Projects-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 Deep Learning Projects
 
-Neural-network based projects exploring **Feedforward Neural Networks (FNN)**
-and **Convolutional Neural Networks (CNN)**.
+Neural-network based projects exploring Feedforward Neural Networks and Convolutional Neural Networks.
 
-**Tech:** Python • TensorFlow • Keras
+**Tech:** Python • TensorFlow • Keras • FNN • CNN
+
+<br>
+
+<a href="https://github.com/bemo-codes">
+  <img src="https://img.shields.io/badge/Explore%20DL%20Projects-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 </tr>
@@ -116,13 +165,15 @@ and **Convolutional Neural Networks (CNN)**.
 
 ## 📚 Currently Learning
 
+<div align="center">
+
 ```text
 Machine Learning
-      ↓
+       ↓
 Deep Learning
-      ↓
+       ↓
 Generative AI
-      ↓
-LLMs
-      ↓
+       ↓
+Large Language Models
+       ↓
 Agentic AI
