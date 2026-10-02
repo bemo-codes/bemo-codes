@@ -1,95 +1,128 @@
-# Hi, I'm Shivam 👋
+<div align="center">
 
-### CSE Student | AI/ML • Deep Learning • Python • Automation
+# 👋 Hi, I'm Shivam Ramesh Kurlekar
 
-I'm a Computer Science Engineering student interested in building practical
-software, Machine Learning and Deep Learning projects.
+### CSE Student • AI/ML • Deep Learning • Python • Automation
 
-I enjoy learning by building projects and experimenting with different
-technologies, algorithms and real-world problems.
+Building practical projects, experimenting with AI, and learning by shipping.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-bemo--codes-181717?style=for-the-badge&logo=github)](https://github.com/bemo-codes)
+
+</div>
 
 ---
 
-## 🧠 What I'm Working With
+## 🧠 About Me
 
-### Programming Languages
-- Python
-- Java
-- C
-- SQL
+I'm a Computer Science Engineering student interested in **Artificial Intelligence,
+Machine Learning, Deep Learning and Automation**.
 
-### AI / Machine Learning
-- NumPy
-- Pandas
-- Scikit-learn
-- Machine Learning
-- Data Analysis
-- Data Visualization
+I enjoy turning concepts into practical projects and continuously improving my
+problem-solving and software development skills.
 
-### Deep Learning
-- TensorFlow
-- Keras
-- Feedforward Neural Networks (FNN)
-- Convolutional Neural Networks (CNN)
+- 🤖 Exploring **Machine Learning & Deep Learning**
+- 🧠 Building projects using **FNN & CNN architectures**
+- 🐍 Working primarily with **Python**
+- ⚙️ Building **automation and system-monitoring tools**
+- 🚀 Currently exploring **Generative AI, LLMs & Agentic AI**
 
-### Web Development
-- HTML
-- CSS
+---
 
-### Automation & Systems
-- Python Automation
-- File Management Automation
-- Process & System Monitoring
+## 🛠️ Tech Stack
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+`NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `Keras`
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Machine Learning Projects
-Building ML models for classification, prediction and real-world problem solving.
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 Deep Learning Projects
-Hands-on projects using FNN and CNN architectures with TensorFlow/Keras.
+### 📁 Duplicate File Removal
 
-### 🔹 Duplicate File Removal
-Python automation tool for detecting duplicate files using hashing and
-automating file cleanup.
+Python-based automation tool that detects duplicate files using file hashing
+and helps automate file cleanup.
 
-### 🔹 Platform Surveillance System
-Python-based system monitoring tool for monitoring CPU, RAM, disk,
-network and running processes.
+**Tech:** Python • Hashing • Automation
+
+</td>
+
+<td width="50%">
+
+### 🖥️ Platform Surveillance System
+
+System monitoring project for tracking CPU, RAM, disk, network and running
+processes.
+
+**Tech:** Python • psutil • System Monitoring
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Machine Learning Projects
+
+Machine Learning projects involving data preprocessing, feature engineering,
+classification and model evaluation.
+
+**Tech:** Python • Pandas • Scikit-learn
+
+</td>
+
+<td width="50%">
+
+### 🔬 Deep Learning Projects
+
+Neural-network based projects exploring **Feedforward Neural Networks (FNN)**
+and **Convolutional Neural Networks (CNN)**.
+
+**Tech:** Python • TensorFlow • Keras
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Machine Learning
-- Deep Learning
-- Generative AI
-- LLM Applications
-- Agentic AI
-- Data Structures & Algorithms
-
----
-
-## 🎯 Goals
-
-I'm currently focused on improving my skills in AI/ML, Deep Learning,
-automation and software development by building practical projects.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@bemo-codes](https://github.com/bemo-codes)
-- LinkedIn: **www.linkedin.com/in/shivam-kurlekar-83151232a**
-
----
-
-⭐ Feel free to explore my repositories and projects.
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+LLMs
+      ↓
+Agentic AI
