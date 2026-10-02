@@ -88,7 +88,7 @@ automation and software development by building practical projects.
 ## 📫 Connect With Me
 
 - GitHub: [@bemo-codes](https://github.com/bemo-codes)
-- LinkedIn: **Add your LinkedIn URL here**
+- LinkedIn: **www.linkedin.com/in/shivam-kurlekar-83151232a**
 
 ---
 
