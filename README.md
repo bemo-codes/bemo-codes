@@ -12,7 +12,7 @@ Building practical projects, experimenting with AI, and learning by shipping.
   <img src="https://img.shields.io/badge/GitHub-bemo--codes-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="www.linkedin.com/in/shivam-kurlekar-83151232a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -270,7 +270,7 @@ LLMs & Agentic AI
   <img src="https://img.shields.io/badge/GitHub-bemo--codes-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="www.linkedin.com/in/shivam-kurlekar-83151232a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
